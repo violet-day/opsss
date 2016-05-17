@@ -1,0 +1,19 @@
+{
+  "name": "opsss",
+  "version": "1.0.0",
+  "description": "chat via cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/violet-day/opsss.git"
+  },
+  "author": "Nemo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/violet-day/opsss/issues"
+  },
+  "homepage": "https://github.com/violet-day/opsss#readme"
+}
